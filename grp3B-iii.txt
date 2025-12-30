@@ -1,0 +1,7 @@
+START
+SET distance = 40
+SET angle = 32
+CONVERT angle to radians
+COMPUTE height = distance × tan(angle)
+DISPLAY height
+END
