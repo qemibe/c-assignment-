@@ -1,0 +1,9 @@
+        Top of Mast
+            |
+            |\
+            | \
+          h |  \  32°
+            |   \
+            |____\________
+                40 m
+            Ground level
